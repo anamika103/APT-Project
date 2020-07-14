@@ -6,8 +6,15 @@ package API_ALL_Code.apiTesting;
  */
 public class Hello 
 {
+	
+	public void test1() {
+		
+		System.out.println( "Hello World!" );
+	}
     public static void main( String[] args )
     {
-        System.out.println( "Hello World!" );
+    	
+    	
+        
     }
 }
